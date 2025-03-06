@@ -25,7 +25,7 @@ The main goal of this repository is to document my journey and progress in game 
 1. Ensure you have Java Development Kit (JDK) installed. You can download it from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html).
 2. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/nagitodst/your-repo-name.git
+    git clone https://github.com/nagitodst/games.git
     ```
 3. Navigate to the specific Java project directory and compile the code using:
     ```bash
