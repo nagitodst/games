@@ -13,7 +13,7 @@ The main goal of this repository is to document my journey and progress in game 
 1. Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 2. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/nagitodst/nagitoputa.git
+    git clone https://github.com/nagitodst/games.git
     ```
 3. Navigate to the specific Python project directory and install the required dependencies using:
     ```bash
